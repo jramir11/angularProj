@@ -1,3 +1,8 @@
+ejecutar para probar :
+getMovieId
+http://localhost:8000/getMovieId/636ee87792607b9acc0a5950
+
+
 # AngularProj
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
